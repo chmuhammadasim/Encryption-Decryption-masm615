@@ -1,4 +1,4 @@
-```markdown
+
 ## Authors
 
 - [@chmuhammadasim](https://www.github.com/chmuhammadasim)
@@ -31,4 +31,3 @@ For optimal deployment, run this project on DOSbox, and ensure you're using MASM
 This project not only showcases the capabilities of assembly language but also provides a hands-on experience with the intricacies of encryption using XOR.
 
 Feel free to explore, contribute, and delve into the fascinating world of assembly language and encryption!
-```
